@@ -1,0 +1,7 @@
+{
+  "name": "webGet",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
